@@ -45,10 +45,10 @@ Universitas Muhammadiyah Bandung — 2025/2026
 ## 📁 Struktur Project
 
 ```
-cleango-laundry/
 ├── laravel/
+├── Flutter
 ├── README.md
-└── Laporan/
+
 ```
 
 ## ⚙️ Instalasi & Menjalankan Project
