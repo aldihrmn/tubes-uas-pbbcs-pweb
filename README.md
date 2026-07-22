@@ -222,7 +222,10 @@ Menampilkan ringkasan Order Baru, Proses, Selesai, dan Total Pengeluaran, serta 
 |---|---|
 | [Laravel (Web Admin)](https://github.com/aldihrmn/cleango-laundry) | Repository backend & web admin |
 | [Flutter (Mobile App)](https://github.com/fauzanaditia/cleango-laundry-mobile) | Repository aplikasi mobile |
-| [Laporan Tugas Besar (PDF)](https://github.com/user-attachments/files/30007009/Laporan_Tugas.Besar_Pemograman.perangkat.bergerak.client.server_Kelompok.7.pdf) | Laporan Tugas Besar PPBCS Kelompok 7 |
+| [Laporan Tugas Besar PPBCS(PDF)](https://github.com/user-attachments/files/30007009/Laporan_Tugas.Besar_Pemograman.perangkat.bergerak.client.server_Kelompok.7.pdf) | Laporan Tugas Besar PPBCS Kelompok 7 |
+| [Laporan Tugas Besar PWEB(PDF)](https://github.com/user-attachments/files/30273124/Laporan.Kendala.Tugas.Besar.Pemrograman.Web.Berbasi.FrameWork.pdf)
+| [Presentasi_Kelompok_7_CleanGo_Laundry.pptx](https://github.com/user-attachments/files/30273204/PPT_Kelompok_7_CleanGo_Laundry.pptx)
+
 
 ## 📝 Lisensi
 
