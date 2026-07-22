@@ -236,3 +236,7 @@ Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah:
 Program Studi Teknik Informatika
 Universitas Muhammadiyah Bandung
 Tahun Akademik 2025/2026
+
+Dosen Pengampu: 
+- Vitradisa Pratama, S.ST., M.T. &
+- Dina Budhi Utami, S.Kom., M.T.
