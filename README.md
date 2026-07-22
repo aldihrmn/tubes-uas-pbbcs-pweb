@@ -197,6 +197,7 @@ Menampilkan ringkasan Order Baru, Proses, Selesai, dan Total Pengeluaran, serta 
 | POST | /api/orders/{id}/payment |
 | GET | /api/orders/{id}/payment |
 | PATCH | /api/orders/{id}/payment/confirm |
+| GET | /api/assets/qris |
 
 ### Contoh Login
 
